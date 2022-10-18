@@ -1,25 +1,5 @@
 # test.m3u
 Tv.m3u
-#EXTINF:-1,TV 1
-https://download1499.mediafire.com/ldk6frma864g/miz74qgbzxorkic/stream.ts+%281%29
-#EXTINF:-1,canal2
-https://download2390.mediafire.com/q0zev647xycg/vbtkscebthsd6sh/stream.ts+%282%29
-#EXTINF:-1,canal 4
-https://download1649.mediafire.com/he1m990s9zog/0s7jj6cmq68oria/stream.ts+%283%29
-#EXTINF:-1,canal 5
-https://download1519.mediafire.com/qj4jdc5i1lwg/vfkz71ef62ck28x/manifest.mpd
-#EXTINF:-1,CH1
-https://download848.mediafire.com/r4hw9747c5og/sfpcdipbdivw0gk/18_.m3u8
-#EXTINF:-1,sonic la película 2
-https://cdn77-vid.xvideos-cdn.com/i8LfbfH-sdi9G73QDeGTYA==,1665601667/videos_new/hls/8a/5c/78/8a5c78560a97482ad2197f076493aeed-1/hls-720p-1d0f7.m3u8
-#EXTINF:-1,Sonic movie (1996)
-https://proxy-13.nyc.dailymotion.com/sec(4D9qlkTX-vRCFXZHYHjCmjkQyZpEEEy5WM0M8MlMEcupK28-7LN4XGsZsHwgc5zf8dYfTGRQBMjEE-Xd88lq12fNebA4RvbBFBYRUPROUYI)/video/069/155/507551960_mp4_h264_aac_hd.m3u8#cell=nyc
-#EXTINF:-1, Sonic película (1996)
-https://www.dailymotion.com/cdn/manifest/video/x8e6llk.m3u8?sec=-ACDC-nXzIVq_906yG7UF4B7-sKtP9SsjaQCJeQqRzigY8k48xURMYnuzpTHbaokfcrU6W__OTb-6Ks9OmHeyg&dmTs=568751&dmV1st=919A7AF103E4F0506D6B5C54CA190F64
-#EXTINF:-1,B1
-https://videos.bittube.video/streaming-playlists/hls/41d241df-eb5d-45e1-b7bc-95640516bc6f/41d241df-eb5d-45e1-b7bc-95640516bc6f-720-fragmented.mp4
-#EXTINF:-1,B2
-https://videos.bittube.video/streaming-playlists/hls/41d241df-eb5d-45e1-b7bc-95640516bc6f/41d241df-eb5d-45e1-b7bc-95640516bc6f-360-fragmented.mp4
 #EXTINF:-1,B3
 https://player.odycdn.com/api/v4/streams/free/%C2%BFqui%C3%A9n-es-mosaic-un-inhumano-con-un/6059a03462157c21913ee1092091265ef87b7ea8/9464c2
 #EXTINF:-1,B4
@@ -30,9 +10,25 @@ https://live.staticflickr.com/video/4708055150/1bb04dcbb8/700.mp4?s=eyJpIjo0NzA4
 https://player.odycdn.com/api/v4/streams/free/x2mate.com-_Bruce_-Langa-HUMILLA-a-Don-Fraudillo-y-otras-EXQUISITECES-DEL-PANORAMA/da1d735c91f160d3b998613c9fd2c9918864eda9/92b270
 #EXTINF:-1,EL MAYOR ENGAÑO 
 https://player.odycdn.com/api/v4/streams/free/x2mate.com-EL-FEMINISMO-ES-EL-MAYOR-ENGA%C3%91O/261779ae671205d6e1a63634458840382cd5bd39/771ee3
-#EXTINF:-1,Sonic 2: La película (2022) 1080p Latino.
-https://player.odycdn.com/api/v4/streams/free/Sonic.2.La.pel%C3%ADcula.(2022)-WEB-DL.1080p.Latino/c7aa7e8cb9d598f0ac30f4cd1fa4a70330039dbc/2f9b76
 #EXTINF:-1,LIVE segunda parte
 player.odycdn.com/api/v4/streams/free/monkey-island-2-gameplay-parte-2/b2e56f6ec8cbd0f397bd8b096588fc71314b747b/b51c82
 #EXTINF:-1,Stray PC gameplay PART 2
 https://player.odycdn.com/api/v4/streams/free/stray-02/f39125395348b406069593f0cd51185e286b0bb4/28ea5f
+#EXTINF:-1,sontails
+https://live.staticflickr.com/video/52436042349/3bc3b87ca4/360p.mp4?s=eyJpIjo1MjQzNjA0MjM0OSwiZSI6MTY2NjA2MTQ5MCwicyI6ImY5MzE0ZGMwZjljNGNkMGMyNTIzZmQxYWMyZDRkZmIxNGU3OTYzOGIiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/31337/52436052304_44d375b6b9_c.jpg", sontails2 
+https://live.staticflickr.com/video/52436052304/44d375b6b9/1080p.mp4?s=eyJpIjo1MjQzNjA1MjMwNCwiZSI6MTY2NjA2MTU1MywicyI6IjE0YTk0NTZiMDAwNWZhM2NkZjJmOTQ5YzRkZjY4YWM4ZWNjY2Q4MDAiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/31337/52436297658_159bac3461_c.jpg", SonAmy 
+https://live.staticflickr.com/video/52436297658/159bac3461/720p.mp4?s=eyJpIjo1MjQzNjI5NzY1OCwiZSI6MTY2NjA2MTY0MCwicyI6IjNkZWFlMTBlZWI0MmQyZDQ5ZDZhZWI1MzY5MDc5OTdlMWM3YmEwYmYiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/31337/52436319358_5f1666db7a_z.jpg",tails gira y gira
+https://live.staticflickr.com/video/52436319358/5f1666db7a/360p.mp4?s=eyJpIjo1MjQzNjMxOTM1OCwiZSI6MTY2NjA2MTY3OSwicyI6IjljNWM1YmJjYjY4N2E5MWVhZWUzZGUyOTRlZjM0MDY0ODUzMTRmOTUiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/31337/52436084349_b21a54eb81_c.jpg",tails get scared astraphobia 
+https://live.staticflickr.com/video/52436084349/b21a54eb81/720p.mp4?s=eyJpIjo1MjQzNjA4NDM0OSwiZSI6MTY2NjA2MTczMiwicyI6ImI0YTY5NjJlMTAyZjBjMGMzYTU3ZjIxNjhmNzI0NjM5MmU4N2M1ZTgiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="",sonic.exe_cancelled_update prey_fc 4k
+https://live.staticflickr.com/video/52435956966/501c86d410/360p.mp4?s=eyJpIjo1MjQzNTk1Njk2NiwiZSI6MTY2NjA2MTc3OCwicyI6IjY4NWVmMDRjNDZlOTZjNDEwNWM1YWU1NTAzMmFmMTk4NWViYzE1ZWYiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/31337/52435859006_269982d974_w.jpg",Ghosts N Goblins Main Theme (From Ghosts N Goblins Videogame Original Soundtrack)
+https://live.staticflickr.com/video/52435859006/269982d974/360p.mp4?s=eyJpIjo1MjQzNTg1OTAwNiwiZSI6MTY2NjA2MTgzMiwicyI6ImEwZTk4YTBjZjY5ODU0MTM2ZWJlMWRkYjBjMDc3ZTIyZjJhZDMxZjAiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="",Canal JDBarba Prueba de corto Fase a Tierra y Fase Neutro en Tablero que protecciones se disparan
+https://live.staticflickr.com/video/52435373357/9e07a0f219/720p.mp4?s=eyJpIjo1MjQzNTM3MzM1NywiZSI6MTY2NjA2MTg4OCwicyI6ImY0MGUwZjgxYzA3OWFiY2M4NmU4ZmE2MDJkZjVhMzNiOTZlOWU3MDkiLCJ2IjoxfQ
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/31337/52436372845_cd0fc02b17_c.jpg",canal JDB 100 saludos compilacion
+https://live.staticflickr.com/video/52436372845/cd0fc02b17/720p.mp4?s=eyJpIjo1MjQzNjM3Mjg0NSwiZSI6MTY2NjA2MTk1NywicyI6ImIwMTMwOGQ3OWQxNTcwNDU4MTM0MjkwNDVlOGZmNmM4NmI4ZjA5MzciLCJ2IjoxfQ
