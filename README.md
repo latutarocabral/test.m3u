@@ -1,0 +1,5 @@
+# test.m3u
+Tv.m3u
+#EXTM3U
+#EXTINF:-1,REACION RUSO
+https://s1.tkvids.com/remote_control.php?time=1683446465&cv=40c9d60655e6e37952a18a41ad1b153f&lr=0&cv2=75a3f197f01516a7d7feca2f69859603&file=%2F71000%2F71531%2F71531.mp4&cv3=03e8f632e5550e9511ed31fcb9b3591e&cv4=030a12fe4a8b6562fc0a14c2ab4bee95
