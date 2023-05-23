@@ -2,8 +2,8 @@
 Tv.m3u
 
 #EXTM3U
-#EXTINF:-1,?????🥃👍☺️😉🤣💤®©§
-https://www.dropbox.com/s/507cxeco18qhh3e/200_.m3u8?dl=0
+#EXTINF:-1,MRO
+https://www.cinedds.online/stuff/mario.mp4
 #EXTINF:-1,200c
 https://www.dropbox.com/s/507cxeco18qhh3e/200_.m3u8?dl=0
 #EXTINF:-1,Every CSGO lobby
