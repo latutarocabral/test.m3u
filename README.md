@@ -2,7 +2,7 @@
 Tv.m3u
 
 #EXTM3U
-#EXTINF:-1,MRO
+#EXTINF:-1,assasxx
 https://www.cinedds.online/stuff/mario.mp4
 #EXTINF:-1,200c
 https://www.dropbox.com/s/507cxeco18qhh3e/200_.m3u8?dl=0
