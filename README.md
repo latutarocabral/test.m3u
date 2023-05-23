@@ -5,7 +5,7 @@ Tv.m3u
 #EXTINF:-1,assasxx
 https://www.cinedds.online/stuff/mario.mp4
 #EXTINF:-1,200c
-https://www.dropbox.com/s/507cxeco18qhh3e/200_.m3u8?dl=0
+https://www.cinedds.online/stuff/mario.mp4
 #EXTINF:-1,Every CSGO lobby
 https://fck-ch22.tnaflix.com/dev22/0/030/972/0030972516/Every_CSGO_Lobby-480p.mp4?se=1683975917&rs=118&rb=385024&ss=dd69fc0a578c571651871597e83fbe6f
 #EXTINF:-1, Cristian Ghost 
