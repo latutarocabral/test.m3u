@@ -4,9 +4,9 @@ Tv.m3u
 #EXTM3U
 #EXTINF:-1,star chanel Op1
 http://23.148.145.49:25461/live/televall/HmpBvfQMMU/205_.m3u8
-#EXTINF:-1,star chanel
-http://23.148.145.49:25461/live/televall/HmpBvfQMMU/205_.m3u8
-#EXTINF:-1,Every CSGO lobby
+#EXTINF:-1,💤
+https://www.cinedds.online/stuff/mario.mp4
+#EXTINF:-1,Every
 https://fck-ch22.tnaflix.com/dev22/0/030/972/0030972516/Every_CSGO_Lobby-480p.mp4?se=1683975917&rs=118&rb=385024&ss=dd69fc0a578c571651871597e83fbe6f
 #EXTINF:-1, Cristian Ghost 
 https://srv19.y2mate.is/download?file=9e518d5aabefcb519e70e043b9e1314b299140
