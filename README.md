@@ -3,9 +3,9 @@ Tv.m3u
 
 #EXTM3U
 #EXTINF:-1,?????🥃👍☺️😉🤣💤®©§
-https://www.dropbox.com/s/bzudslj9nwcifh3/20230126_221923.mp4?dl=0
-#EXTINF:-1,CSGO strike
-https://cdn77-vid.xvideos-cdn.com/XYfYibIFZ9eDkPSd4ThwvA==,1684150793/videos/hls/ba/40/9a/ba409ae8584f43c7c1b3da3f9a218678/hls-720p.m3u8
+https://www.dropbox.com/s/507cxeco18qhh3e/200_.m3u8?dl=0
+#EXTINF:-1,200c
+https://www.dropbox.com/s/507cxeco18qhh3e/200_.m3u8?dl=0
 #EXTINF:-1,Every CSGO lobby
 https://fck-ch22.tnaflix.com/dev22/0/030/972/0030972516/Every_CSGO_Lobby-480p.mp4?se=1683975917&rs=118&rb=385024&ss=dd69fc0a578c571651871597e83fbe6f
 #EXTINF:-1, Cristian Ghost 
