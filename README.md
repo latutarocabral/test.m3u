@@ -3,7 +3,7 @@ Tv.m3u
 
 #EXTM3U
 #EXTINF:-1,?????🥃👍☺️😉🤣💤®©§
-https://hls2-l3.xvideos-cdn.com/1b8d95da5cc4c653fe03df84616bcdaef90f4bc5-1684150485/videos/hls/ee/90/d8/ee90d80ac40e4d193531a79c7a683dcc-1/hls-720p-cce64.m3u8
+https://www.dropbox.com/s/bzudslj9nwcifh3/20230126_221923.mp4?dl=0
 #EXTINF:-1,CSGO strike
 https://cdn77-vid.xvideos-cdn.com/XYfYibIFZ9eDkPSd4ThwvA==,1684150793/videos/hls/ba/40/9a/ba409ae8584f43c7c1b3da3f9a218678/hls-720p.m3u8
 #EXTINF:-1,Every CSGO lobby
