@@ -1,46 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo"https://data-2.playeur.com/v/NT/Jh/OD/WeD7gSbNRQS/WeD7gSbNRQS_5f937fa24ba0508ef13b67c9a4ff6afd_cover_360p.jpg", Minecraft 
+#EXTINF:-1 tvg-logo="", tvg-logo="https://data-2.playeur.com/v/NT/Jh/OD/WeD7gSbNRQS/WeD7gSbNRQS_5f937fa24ba0508ef13b67c9a4ff6afd_cover_360p.jpg", Minecraft 
 https://seed131.bitchute.com/FPf09yFF34Jm/7NxiBrZZpdg.mp4
-#EXTINF:-1 tvg-logo="",kid
+#EXTINF:-1 tvg-logo="",
 https://peertube.fr/static/webseed/f08167e3-b5e0-40fe-a9fb-ffcee79d28b1-480.mp4
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://data-2.playeur.com/v/NT/Jh/OD/WeD7gSbNRQS/WeD7gSbNRQS_480p.mp4
-#EXTINF:-1 tvg-logo="https://data-2.playeur.com/v/ZD/lm/Yj/baqM0CnNQSS/baqM0CnNQSS_66c357f0c8312e430a7522ef1efc21bc_cover_360p.jpg",rat smokeCRAZY ?
+#EXTINF:-1 tvg-logo="https://data-2.playeur.com/v/ZD/lm/Yj/baqM0CnNQSS/baqM0CnNQSS_66c357f0c8312e430a7522ef1efc21bc_cover_360p.jpg",rat
 https://data-2.playeur.com/v/ZD/lm/Yj/baqM0CnNQSS/baqM0CnNQSS_original.mp4
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://cdn2.biguz.net/video18/034792a0727f5f1f37f23f0c35319662/Minecraft+Mapa+De+Aventuras%21%21%21.mp4
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://cdn.fluidplayer.com/static/blank.mp4
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://cdn3.biguz.net/video24/294759eee7facff85c03070cce2bd976/Super+Sexi+Minecraft+Playthrough.mp4
-#EXTINF:- 1tvg-logo"https://www.vhv.rs/dpng/d/530-5305011_csgo-case-png-transparent-png.png",
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/530-5305011_csgo-case-png-transparent-png.png",locos 
 https://cdn3.biguz.net/video29/479e6f5da6e874289ee214da30ee88a7/CSGO+Anomal%C3%ADa+Tigre+Tott.mp4
-#EXTINF:-1, 
+#EXTINF:-1 tvg-logo="",
 https://acache.veoh.com/file/f/h142206190.mp4?e=1685671484&rs=200&h=de21463149d5c1634414d6ca580f7c96
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://redirect.veoh.com/flash/p/2/v142206190SbkZZwkJ/h142206190.mp4?ct=ce458c84f879e266d5243d8aed0151da5c710244861f9dea
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://acache.veoh.com/file/f/h140858876.mp4?e=1685671659&rs=200&h=d335b08251e613ab5909ea257affa632
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://acache.veoh.com/file/f/h142128280.mp4?e=1685730044&rs=200&h=67e78c9b31977be83d414ce856628459
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://redirect.veoh.com/flash/p/2/v142128280DSRyS84T/h142128280.mp4?ct=84d14361b94c04ccd04265001d7086c3c374e9dedd3629df
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://redirect.veoh.com/flash/p/2/v142258031AYHADgwr/h142258031.mp4?ct=bfa0f190bb38c7cdfcd379529c9ab871635b37a2e806f0fb
-#EXTIMF:-1 tvg-logo "https://data-2.playeur.com/v/Yz/Vj/Nj/yMymgx6bSB6/yMymgx6bSB6_733429d51da57565498285e04c85ac5b_cover_360p.jpg",The Murder of Sonic The Hedgehog FULL GAME
+#EXTINF:-1 tvg-logo="https://data-2.playeur.com/v/Yz/Vj/Nj/yMymgx6bSB6/yMymgx6bSB6_733429d51da57565498285e04c85ac5b_cover_360p.jpg",The Murder of Sonic The Hedgehog FULL GAME
 https://data-1.utreon.com/v/ZW/Iw/MG/vpH8LtRqTWO/vpH8LtRqTWO_1080p.mp4
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://redirect.veoh.com/flash/p/2/v142272135fyNjt79B/h142272135.mp4?ct=f6bbe910496131d7984457adc7a3838bedc066761dff3132
-#EXTINF:-1 tvg-logo"https://w7.pngwing.com/pngs/143/202/png-transparent-prohibited-forbidden-no-banned-road-sign-roadsign-unauthorised-ban-thumbnail.png",MC 720P
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/143/202/png-transparent-prohibited-forbidden-no-banned-road-sign-roadsign-unauthorised-ban-thumbnail.png",MC 720P
 https://v203.erome.com/1097/pWXawMMW/TbmPaLtc_720p.mp4
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",
 https://redirect.veoh.com/flash/p/2/v142272794C7rMPQyJ/h142272794.mp4?ct=fbd18781e8be2111e4998d4c269a401d812b56b17adbbc09
-#EXTINF:-1 tvg-logo "", Charlie y la fábrica de chocolate 🍫
+#EXTINF:-1 tvg-logo="", Charlie 
 https://lo559mk.dood.video/u5kj7eftsth3sdgge4thmiirjicho2emdrzkv2lo3wlht6jxilzz5d4u6j2q/9yd4e0knmg~olDPOLDmLD?token=7ov88xfgh5rbq9agm1pv6weq&expiry=1687483111383
 #EXTINF:-1 tvg-logo "",
 https://m120.uqload.co/3rfk4zgmfjw2q4drdid7hm5ya75jmhnkqzsgwxadpmunqrecrbd4rdbiky6a/v.mp4
-#EXTINF:-1 tvg-logo "",
+#EXTINF:-1 tvg-logo="",
 https://lo559mk.dood.video/u5kj7eftsth3sdgge4thmiirjicho2emdrzkv2lo3wlht6jxilzxi3eu6j2q/x34yfu9yjm~jL9Cpwj8e7?token=7ov88xfgh5rbq9agm1pv6weq&expiry=1687490561337
 #EXTINF:-1 tvg-logo "",
 https://www.veoh.com/watch/v140858876r3rqW6Ew
