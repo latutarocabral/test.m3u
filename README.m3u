@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-logo"https://data-2.playeur.com/v/NT/Jh/OD/WeD7gSbNRQS/WeD7gSbNRQS_5f937fa24ba0508ef13b67c9a4ff6afd_cover_360p.jpg", Minecraft 
 https://seed131.bitchute.com/FPf09yFF34Jm/7NxiBrZZpdg.mp4
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="",kid
 https://peertube.fr/static/webseed/f08167e3-b5e0-40fe-a9fb-ffcee79d28b1-480.mp4
 #EXTINF:-1,
 https://data-2.playeur.com/v/NT/Jh/OD/WeD7gSbNRQS/WeD7gSbNRQS_480p.mp4
-#EXTINF:-1 tvg-logo"https://data-2.playeur.com/v/ZD/lm/Yj/baqM0CnNQSS/baqM0CnNQSS_66c357f0c8312e430a7522ef1efc21bc_cover_360p.jpg",rat smokeCRAZY ?
+#EXTINF:-1 tvg-logo="https://data-2.playeur.com/v/ZD/lm/Yj/baqM0CnNQSS/baqM0CnNQSS_66c357f0c8312e430a7522ef1efc21bc_cover_360p.jpg",rat smokeCRAZY ?
 https://data-2.playeur.com/v/ZD/lm/Yj/baqM0CnNQSS/baqM0CnNQSS_original.mp4
 #EXTINF:-1,
 https://cdn2.biguz.net/video18/034792a0727f5f1f37f23f0c35319662/Minecraft+Mapa+De+Aventuras%21%21%21.mp4
